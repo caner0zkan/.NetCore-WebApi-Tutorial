@@ -1,0 +1,12 @@
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.deps.json
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.dll
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.data.pdb
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.dll
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\bin\Debug\netstandard2.0\shopapp.entity.pdb
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csprojAssemblyReference.cache
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfoInputs.cache
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.AssemblyInfo.cs
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csproj.CoreCompileInputs.cache
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.csproj.CopyComplete
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.dll
+D:\APP PROJECTS\GitHub\.NetCore-WebApi-Tutorial\shopapp\shopapp.data\obj\Debug\netstandard2.0\shopapp.data.pdb
