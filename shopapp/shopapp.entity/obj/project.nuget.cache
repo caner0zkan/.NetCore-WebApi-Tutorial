@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ukkCepHcDipOu78QAUCfO6r+KUKrHYhk9IkxgG0l0g+0+DTjJpZ8mVYo6Vp0a+x33kwvpOGHOqpfKGKn7w8y9Q==",
+  "dgSpecHash": "YsaOn9eUD/QO9TIJAN9MCKYvEtcCjS9CIdX1b4pHZa0HEt6V4pZpLRId5ZjzG0CYRlNl5a6T66ZEJNpovPKpQw==",
   "success": true,
-  "projectFilePath": "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "projectFilePath": "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

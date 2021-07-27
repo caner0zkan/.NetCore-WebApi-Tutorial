@@ -6613,11 +6613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\shopapp.business.csproj",
+      "projectUniqueName": "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\shopapp.business.csproj",
       "projectName": "shopapp.business",
-      "projectPath": "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\shopapp.business.csproj",
+      "projectPath": "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\shopapp.business.csproj",
       "packagesPath": "C:\\Users\\caner\\.nuget\\packages\\",
-      "outputPath": "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\obj\\",
+      "outputPath": "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6633,11 +6633,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.data\\shopapp.data.csproj": {
-              "projectPath": "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.data\\shopapp.data.csproj"
+            "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.data\\shopapp.data.csproj": {
+              "projectPath": "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.data\\shopapp.data.csproj"
             },
-            "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
-              "projectPath": "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
+            "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.entity\\shopapp.entity.csproj": {
+              "projectPath": "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.entity\\shopapp.entity.csproj"
             }
           }
         }

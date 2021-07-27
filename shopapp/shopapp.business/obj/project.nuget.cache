@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7OV2N42zN1FqTYYGpib1g2O5iKlL6A3Hoh7JWi+KrGOt1PPSus3+Tj9Gta9GW7ur1Z2akiTTnQnfJZizdy8eQg==",
+  "dgSpecHash": "DTQ80umyVSHRna67FIms5FW9qzjGIIAKGrB2KDUG8eh+hsPaGoX7eRk+9aSZXoWimJ62HPtDj6mjEa5svcagyA==",
   "success": true,
-  "projectFilePath": "D:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\shopapp.business.csproj",
+  "projectFilePath": "d:\\APP PROJECTS\\GitHub\\.NetCore-WebApi-Tutorial\\shopapp\\shopapp.business\\shopapp.business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\caner\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
